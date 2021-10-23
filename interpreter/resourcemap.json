@@ -1,0 +1,104 @@
+{
+  "pict-1": {
+    "image": 1,
+    "url": "interpreter\\pict-1.jpeg",
+    "width": 960,
+    "height": 960
+  },
+  "pict-18": {
+    "image": 18,
+    "url": "interpreter\\pict-18.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-19": {
+    "image": 19,
+    "url": "interpreter\\pict-19.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-20": {
+    "image": 20,
+    "url": "interpreter\\pict-20.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-21": {
+    "image": 21,
+    "url": "interpreter\\pict-21.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-22": {
+    "image": 22,
+    "url": "interpreter\\pict-22.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-23": {
+    "image": 23,
+    "url": "interpreter\\pict-23.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-24": {
+    "image": 24,
+    "url": "interpreter\\pict-24.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-25": {
+    "image": 25,
+    "url": "interpreter\\pict-25.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-26": {
+    "image": 26,
+    "url": "interpreter\\pict-26.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-27": {
+    "image": 27,
+    "url": "interpreter\\pict-27.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-28": {
+    "image": 28,
+    "url": "interpreter\\pict-28.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-29": {
+    "image": 29,
+    "url": "interpreter\\pict-29.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-30": {
+    "image": 30,
+    "url": "interpreter\\pict-30.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-31": {
+    "image": 31,
+    "url": "interpreter\\pict-31.png",
+    "width": 768,
+    "height": 256
+  },
+  "pict-32": {
+    "image": 32,
+    "url": "interpreter\\pict-32.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "pict-33": {
+    "image": 33,
+    "url": "interpreter\\pict-33.png",
+    "width": 768,
+    "height": 256
+  }
+}
